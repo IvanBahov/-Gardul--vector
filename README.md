@@ -1,5 +1,7 @@
 # -Gardul--vector
 Prelucrarea unui vector de elemente
 Pentru a edeta proiectul bifati: https://repl.it/@isbahov123/Problema-Gardul#main.c
-![Без названия (16)](https://user-images.githubusercontent.com/75801784/102915848-23669380-448b-11eb-8e1e-5cb2c3d8473c.jpg)
+
+![Новый рисунок](https://user-images.githubusercontent.com/75801784/103301217-8d41e880-4a09-11eb-9ed9-16bda0e06f0f.png)
+
 Video [Video youtube](https://www.youtube.com/watch?v=lBtA4dd9GaY)
